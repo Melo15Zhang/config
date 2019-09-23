@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/center_main.iml" filepath="$PROJECT_DIR$/.idea/modules/center_main.iml" group="center" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/center_test.iml" filepath="$PROJECT_DIR$/.idea/modules/center_test.iml" group="center" />
       <module fileurl="file://$PROJECT_DIR$/.idea/config.iml" filepath="$PROJECT_DIR$/.idea/config.iml" />
     </modules>
   </component>
